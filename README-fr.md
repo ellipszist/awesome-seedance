@@ -6,38 +6,39 @@ Last updated on 2026-04-03 07-55-45
 
 | [English](./README.md) | [简体中文](./README-zh.md) | [Deutsch](./README-de.md) | [Francais](./README-fr.md) | [Espanol](./README-es.md) | [日本語](./README-ja.md) |
 
-> A curated collection of the **best Seedance 2.0 prompts**, video generation techniques, and resources for advanced **Seedance AI** experiments.
+> Une collection selectionnee des **meilleurs prompts Seedance 2.0**, de techniques de generation video et de ressources pour des experimentations avancees avec **Seedance AI**.
 
-This repository focuses on **high-fidelity Seedance 2.0 prompts** sourced from X (Twitter), WeChat, and top prompt engineers. Whether you are looking for **cinematic transitions**, **character consistency**, or complex motion sequences, you will find the most effective inputs here to unlock the full potential of **Seedance AI**.
+Ce depot se concentre sur des **prompts Seedance 2.0 haute fidelite** provenant de X (Twitter), WeChat et de prompt engineers de premier plan. Que vous cherchiez des **transitions cinematographiques**, une **coherence des personnages** ou des **sequences de mouvement complexes**, vous trouverez ici les entrees les plus efficaces pour exploiter pleinement **Seedance AI**.
 
+Remarque : afin de preserver la reproductibilite, de nombreux blocs de prompt restent en anglais dans leur formulation d'origine.
 
-### Sponsor: [Access Seedance 2.0 Now on Cyberbara!](https://cyberbara.com?utm_source=awesome-seedance)
+### Sponsor : [Accedez a Seedance 2.0 maintenant sur Cyberbara !](https://cyberbara.com?utm_source=awesome-seedance)
 [<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/45e5d350-2b77-4bec-b55f-65a5a2ecbde1" />](https://cyberbara.com?utm_source=awesome-seedance)
 
+## 📖 Table des matieres
 
-## 📖 Table of Contents
-
-1. [Cinematic Film Styles](#1-cinematic-film-styles)
-2. [Advertising & Commercial Branding](#2-advertising--commercial-branding)
-3. [Social Media & Viral Memes](#3-social-media--viral-memes)
-4. [UGC Style](#4-ugc-style)
-5. [Anime & Animation Styles](#5-anime--animation-styles)
-6. [Short-form Drama & Web Series](#6-short-form-drama--web-series)
-7. [Visual Effects & Experimental Styles](#7-visual-effects--experimental-styles)
-8. [Resources (API & How-to-use)](#8-resources)
-9. [Contributing](#9-contributing)
-10. [Star History](#10-star-history)
+1. [Styles cinematographiques](#1-cinematic-film-styles)
+2. [Publicite et image de marque](#2-advertising--commercial-branding)
+3. [Reseaux sociaux et memes viraux](#3-social-media--viral-memes)
+4. [Style UGC](#4-ugc-style)
+5. [Styles anime et animation](#5-anime--animation-styles)
+6. [Dramas courts et web series](#6-short-form-drama--web-series)
+7. [Effets visuels et styles experimentaux](#7-visual-effects--experimental-styles)
+8. [Ressources (API et guide d'utilisation)](#8-resources)
+9. [Contribuer](#9-contributing)
+10. [Historique des stars](#10-star-history)
 
 ---
 
-## 1. Cinematic Film Styles
+<a id="1-cinematic-film-styles"></a>
+## 1. Styles cinematographiques
 
-Professional cinematic approaches inspired by renowned directors, perfectly suited for **Seedance 2.0 prompts**.
+Approches cinematographiques professionnelles inspirees de realisateurs reconnus, parfaites pour les **prompts Seedance 2.0**.
 
-### 1.1. Hollywood Professional Racing Movie Style
-*Le Mans-inspired cinematic racing scene with night rain and high stakes.*
+### 1.1. Style film de course hollywoodien professionnel
+*Scene de course inspiree du Mans, sous la pluie nocturne avec un fort enjeu dramatique.*
 
-**Prompt:**
+**Prompt :**
 ```
 Style: Hollywood Professional Racing Movie (Le Mans Style), Cinematic Night, Rain, High Stakes Sport.
 Duration: 15s.
@@ -56,12 +57,12 @@ The starting lights turn Green. Both cars accelerate in perfect sync on the wet 
 
 https://github.com/user-attachments/assets/76ffff91-3b2b-47c4-953c-f9ff75834fe7
 
-*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020515830874636716?s=20)*
+*Source : John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020515830874636716?s=20)*
 
-### 1.2. Denis Villeneuve Style Epic Desert Scene
-*Cinematic IMAX 70mm film style with epic scale and gritty realism.*
+### 1.2. Scene desertique epique dans le style de Denis Villeneuve
+*Style IMAX 70 mm avec une echelle epique et un realisme brut.*
 
-**Prompt:**
+**Prompt :**
 ```
 Style: IMAX 70mm Film, Denis Villeneuve Style, Gritty Realism, Epic Scale, Desaturated.
 Duration: 15s.
@@ -72,12 +73,12 @@ Duration: 15s.
 
 https://github.com/user-attachments/assets/1ab84150-de21-4d8b-bf26-340676b4f066
 
-*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020794007291404726?s=20)*
+*Source : John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020794007291404726?s=20)*
 
-### 1.3. Wong Kar-wai Film Style (Rainy Phone Booth Scene)
-*Creating a nostalgic Hong Kong art cinema atmosphere with retro film grain and emotional depth.*
+### 1.3. Style Wong Kar-wai (cabine telephonique sous la pluie)
+*Atmosphere nostalgique du cinema d'auteur hongkongais, avec grain retro et forte intensite emotionnelle.*
 
-**Prompt:**
+**Prompt :**
 ```
 [Film Style]: 90s Hong Kong Art Cinema style, retro film feel, high ISO grain, ambiguous yellow-green tint, frame stepping effect, melancholic atmosphere.
 
@@ -108,54 +109,56 @@ Environment: Background is flowing city car lights forming elongated light trail
 
 https://github.com/user-attachments/assets/a3be2f7e-a30b-4c7e-847b-447d315f6afe
 
-*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020415877993156966?s=20)*
+*Source : John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020415877993156966?s=20)*
 
 ---
 
-## 2. Advertising & Commercial Branding
+<a id="2-advertising--commercial-branding"></a>
+## 2. Publicite et image de marque
 
-Utilize **Seedance AI** for professional product showcases and brand storytelling. These examples demonstrate how to create high-end commercial content.
+Utilisez **Seedance AI** pour des presentations produit professionnelles et du storytelling de marque. Ces exemples montrent comment produire un contenu publicitaire haut de gamme.
 
-### 2.1. MUJI Brand Promotional Video
-*Pure prompt generation for a promotional video about the MUJI brand.*
+### 2.1. Video promotionnelle pour la marque MUJI
+*Prompt simple pour generer une video promotionnelle sur la marque MUJI.*
 
-**Prompt:**
+**Prompt :**
 ```
 Help me generate a promotional video about the MUJI brand.
 ```
 
 https://github.com/user-attachments/assets/8ea42edb-d3c8-4fb8-8046-f59a3c1ddb1d
 
-*Source: 歸藏(guizang.ai) ([@op7418](https://x.com/op7418)) - [Post](https://x.com/op7418/status/2021260675960504802?s=20)*
+*Source : 歸藏(guizang.ai) ([@op7418](https://x.com/op7418)) - [Post](https://x.com/op7418/status/2021260675960504802?s=20)*
 
-### 2.2. Perfume MG Animation Style
-*Using Seedance 2.0 for motion graphics animation instead of traditional AE.*
+### 2.2. Style animation MG pour parfum
+*Utiliser Seedance 2.0 pour creer une animation motion graphics au lieu d'un workflow AE traditionnel.*
 
-**Prompt:**
+**Prompt :**
 ```
 Based on the script from Image 1, generate advertising content for the perfume product in Image 2. The voiceover should reference a natural female voice speaking in English. Pay attention to the proportions of the perfume bottle, integrating it into the background with natural lighting. Avoid heavy texture overlay and cutout effects. The pace can be more brisk.
 ```
 
-**Input Images:**
+**Images d'entree :**
 
-<img width="400" alt="Input Image 1" src="https://pbs.twimg.com/media/HAluy_8WYAANsv_?format=jpg&name=small" /> *(Input Image 1: Script Reference)* <img width="400" alt="Input Image 2" src="https://pbs.twimg.com/media/HAluy_6WMAAz9JS?format=jpg&name=small" /> *(Input Image 2: Perfume Product)*
+<img width="400" alt="Input Image 1" src="https://pbs.twimg.com/media/HAluy_8WYAANsv_?format=jpg&name=small" /> *(Image d'entree 1 : reference de script)* <img width="400" alt="Input Image 2" src="https://pbs.twimg.com/media/HAluy_6WMAAz9JS?format=jpg&name=small" /> *(Image d'entree 2 : produit parfum)*
 
-**Result video:**
+**Video resultat :**
 
 https://github.com/user-attachments/assets/7c8e24b9-b203-417f-b18a-6a1611d7871a
 
-*Source: Vicky ([@BFAVicky](https://x.com/BFAVicky)) - [Post](https://x.com/BFAVicky/status/2020267913316561195?s=20)*
+*Source : Vicky ([@BFAVicky](https://x.com/BFAVicky)) - [Post](https://x.com/BFAVicky/status/2020267913316561195?s=20)*
 
 ---
 
-## 3. Social Media & Viral Memes
+<a id="3-social-media--viral-memes"></a>
+## 3. Reseaux sociaux et memes viraux
 
-Create attention-grabbing content for social platforms with these creative **Seedance AI** prompts.
+Creez du contenu accrocheur pour les plateformes sociales avec ces prompts creatifs **Seedance AI**.
 
-### 3.1. Giant Orange Cat Meme Style
-*Comedic surrealism featuring a Godzilla-sized orange cat in a Chinese city.*
+### 3.1. Style meme du chat orange geant
+*Surrealisme comique mettant en scene un chat orange taille Godzilla dans une ville chinoise.*
 
-**Prompt:**
+**Prompt :**
 ```
 【Style】Mockumentary, mobile Vlog perspective, hyperrealistic CG combined with real scenes, 8K quality, perfect fur physics simulation.
 【Duration】15 seconds
@@ -174,18 +177,19 @@ Narrative sense: It lazily lies down and starts grooming itself, blocking the en
 
 https://github.com/user-attachments/assets/2c0688fe-7733-4a20-8f1d-ec0d5c60527c
 
-*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020717903134204344?s=20)*
+*Source : John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020717903134204344?s=20)*
 
 ---
 
-## 4. UGC Style
+<a id="4-ugc-style"></a>
+## 4. Style UGC
 
-This category focuses on "User-Generated Content" aesthetics, mimicking everyday camera phone footage with surreal twists.
+Cette categorie se concentre sur l'esthetique du contenu genere par les utilisateurs, en imitant des videos de smartphone du quotidien avec une torsion surrealiste.
 
-### 4.1. Surrealistic Documentary Style
-*Reality-bending vlog with a twist on mirror reflections.*
+### 4.1. Style documentaire surrealiste
+*Vlog qui plie la realite avec un detournement autour des reflets dans le miroir.*
 
-**Prompt:**
+**Prompt :**
 ```
 【Style】Mockumentary (Vlog Style), hyperrealism, fixed-camera real-shot feel, natural lighting, with a slight suspenseful comedy tone.
 【Duration】15 seconds
@@ -205,30 +209,31 @@ Result: The mirror has now completely returned to normal, completely empty, only
 
 https://github.com/user-attachments/assets/74c700e7-9371-4c1c-becf-ca3f9aadb357
 
-*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020788951678607813?s=20)*
+*Source : John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020788951678607813?s=20)*
 
 ---
 
-## 5. Anime & Animation Styles
+<a id="5-anime--animation-styles"></a>
+## 5. Styles anime et animation
 
-Explore various anime and animation techniques, including tests for character consistency and dynamic motion.
+Explorez plusieurs techniques d'anime et d'animation, notamment des tests de coherence de personnage et de mouvement dynamique.
 
-### 5.1. Figure 1 vs Figure 2 Martial Arts Tournament
-*World martial arts tournament battle between two figures with input image.*
+### 5.1. Tournoi d'arts martiaux : Figure 1 contre Figure 2
+*Combat de tournoi mondial d'arts martiaux entre deux personnages avec image d'entree.*
 
-**Prompt:**
+**Prompt :**
 ```
 'Figure 1 character battling Figure 2 character in the World Martial Arts Tournament' with input image
 ```
 
 https://github.com/user-attachments/assets/aa723d28-994e-445d-a950-127903d9489b
 
-*Source: 露西的百宝箱 ([@Lucy_love_AI](https://x.com/Lucy_love_AI)) - [Post](https://x.com/Lucy_love_AI/status/2021037206585192749?s=20)*
+*Source : 露西的百宝箱 ([@Lucy_love_AI](https://x.com/Lucy_love_AI)) - [Post](https://x.com/Lucy_love_AI/status/2021037206585192749?s=20)*
 
-### 5.2. Nezha and Ao Bing Ice-Fire Clash (Space-Time Folding)
-*Testing dynamic consistency and motion transitions with high-frequency, large-scale actions.*
+### 5.2. Collision glace-feu entre Nezha et Ao Bing (pli spatial-temporel)
+*Teste la coherence dynamique et les transitions de mouvement avec des actions a haute frequence et grande echelle.*
 
-**Prompt:**
+**Prompt :**
 ```
 Act 1: Stillness and Burst (Testing Acceleration from Standstill)
 Visual: Close-up. Nezha's Red Armillary Sash gently sways in the wind with sparks flying. The camera suddenly zooms out rapidly.
@@ -253,24 +258,24 @@ Visual Focus: Testing Seedance 2.0's logical continuity using particle continuit
 
 https://github.com/user-attachments/assets/9f7dec03-a8c3-4dbb-96c2-0136f3105a9d
 
-*Source: Adam also known as Jimmy ([@Adam38363368936](https://x.com/Adam38363368936)) - [Post](https://x.com/Adam38363368936/status/2020530975072264442)*
+*Source : Adam, aussi connu sous le nom de Jimmy ([@Adam38363368936](https://x.com/Adam38363368936)) - [Post](https://x.com/Adam38363368936/status/2020530975072264442)*
 
-### 5.3. Otter Mecha Anime Battle (Mech vs. Octopus)
-*Anime scene with mechanical parts, otter piloting a mech, and battle against a marble octopus.*
+### 5.3. Bataille anime mecha-loutre (mecha contre pieuvre)
+*Scene d'anime avec pieces mecaniques, une loutre qui pilote un mecha et un combat contre une pieuvre en marbre.*
 
-**Prompt:**
+**Prompt :**
 ```
 An anime where an otter goes into a large mech, with lots of quick shots of mechanical parts and gears turning. The otter gives a grim thumbs up, and then pilots the mech, flying into battle against an octopus made of marble.
 ```
 
 https://github.com/user-attachments/assets/eb9ef0cd-5f75-48ff-8268-fc3d05aa9d61
 
-*Source: Ethan Mollick ([@emollick](https://x.com/emollick)) - [Post](https://x.com/emollick/status/2021412306291392535?s=20)*
+*Source : Ethan Mollick ([@emollick](https://x.com/emollick)) - [Post](https://x.com/emollick/status/2021412306291392535?s=20)*
 
-### 5.4. X Bookmarks Pick: 10 Must-Try Animation Styles
-*An X-bookmarked Seedance 2.0 style-consistency reference, useful as an inspiration index for animation workflows.*
+### 5.4. Selection X bookmarks : 10 styles d'animation a tester
+*Reference Seedance 2.0 sur la coherence de style, utile comme index d'inspiration pour les workflows d'animation.*
 
-**Prompt / Key Text:**
+**Prompt / texte cle :**
 ```
 Seedance 2.0 nails style consistency.
 
@@ -279,64 +284,64 @@ Seedance 2.0 nails style consistency.
 1) Stylized 3D
 ```
 
-**Why it matters:**
-- Strong example of Seedance 2.0 maintaining visual consistency across stylized animation output
-- Useful as a collection seed for future breakdowns of animation sub-styles
-- Includes embedded video in the original post
+**Pourquoi c'est utile :**
+- Exemple solide de Seedance 2.0 maintenant une coherence visuelle sur un rendu anime stylise
+- Utile comme point de depart pour de futures analyses de sous-styles d'animation
+- La publication d'origine contient une video integree
 
-**Video length:** `0:07`
+**Duree de la video :** `0:07`
 
-**Original Post:**
+**Publication d'origine :**
 https://x.com/Framer_X/status/2028144981631029408
 
-**Metrics at capture time:** 94.3K Views · 1.2K Likes · 1.5K Bookmarks
+**Metriques au moment de la capture :** 94.3K vues · 1.2K likes · 1.5K bookmarks
 
-*Source: Framer ([@Framer_X](https://x.com/Framer_X)) - [Post](https://x.com/Framer_X/status/2028144981631029408)*
+*Source : Framer ([@Framer_X](https://x.com/Framer_X)) - [Post](https://x.com/Framer_X/status/2028144981631029408)*
 
-### 5.5. X Bookmarks Pick: Why Won’t It Stay?!
-*Recent Seedance 2.0 video example found in X bookmarks.*
+### 5.5. Selection X bookmarks : Why Won't It Stay?!
+*Exemple recent de video Seedance 2.0 repere dans des bookmarks X.*
 
-**Post Text:**
+**Texte du post :**
 ```
 Why Won’t It Stay?! 🎬
 
 Seedance 2.0 Prompt shared below
 ```
 
-**What is confirmed:**
-- Embedded video exists in the bookmarked post
-- The post explicitly says the full prompt is shared below
-- Current visible metrics: 47.9K Views · 393 Likes · 308 Bookmarks
+**Ce qui est confirme :**
+- Une video integree est bien presente dans le post sauvegarde
+- Le post indique explicitement que le prompt complet est partage plus bas
+- Metriques visibles actuellement : 47.9K vues · 393 likes · 308 bookmarks
 
-**What is not yet recovered:**
-- Full prompt text from the follow-up thread / reply chain
-- Stable canonical status URL from the current browser session
+**Ce qui n'a pas encore ete recupere :**
+- Le texte complet du prompt dans le fil ou la chaine de reponses
+- Une URL canonique stable du statut depuis la session de navigation actuelle
 
-**Source profile:** https://x.com/0xbisc
+**Profil source :** https://x.com/0xbisc
 
-*Source: Latte ([@0xbisc](https://x.com/0xbisc))*
+*Source : Latte ([@0xbisc](https://x.com/0xbisc))*
 
-### 5.6. Motion Graphics
-*Creating motion graphics animation using 3D animation style.*
+### 5.6. Motion graphics
+*Creer une animation motion graphics en s'appuyant sur un style d'animation 3D.*
 
-**Prompt:**
+**Prompt :**
 ```
 Create motion graphics animation inspired by traditional animation techniques. Based on the three examples shown, develop an animated sequence that captures the essence of classic animation while leveraging Seedance 2.0's advanced capabilities.
 ```
 
-**Input Images:**
-<img width="400" alt="Animation Example 1" src="https://pbs.twimg.com/media/HAuRAbDbQAAZ0Om?format=jpg&name=900x900" /> *(Input Image 1: Animation Reference)* <img width="400" alt="Animation Example 2" src="https://pbs.twimg.com/media/HAuRAbBacAA0T52?format=jpg&name=900x900" /> *(Input Image 2: Prompt Reference)*
+**Images d'entree :**
+<img width="400" alt="Animation Example 1" src="https://pbs.twimg.com/media/HAuRAbDbQAAZ0Om?format=jpg&name=900x900" /> *(Image d'entree 1 : reference animation)* <img width="400" alt="Animation Example 2" src="https://pbs.twimg.com/media/HAuRAbBacAA0T52?format=jpg&name=900x900" /> *(Image d'entree 2 : reference prompt)*
 
-**Result video:**
+**Video resultat :**
 
 https://github.com/user-attachments/assets/19ba595f-ac45-4288-b7b4-5dc387bdd648
 
-*Source: Vicky ([@BFAVicky](https://x.com/BFAVicky)) - [Post](https://x.com/BFAVicky/status/2020868594729398554?s=20)*
+*Source : Vicky ([@BFAVicky](https://x.com/BFAVicky)) - [Post](https://x.com/BFAVicky/status/2020868594729398554?s=20)*
 
-### 5.5. Van Gogh Post-Impressionism Style Animation
-*Dreamy animated world created with thick oil paint textures and swirling brushstrokes.*
+### 5.7. Animation style post-impressionnisme de Van Gogh
+*Monde anime onirique cree avec des textures de peinture a l'huile epaisse et des coups de pinceau tourbillonnants.*
 
-**Prompt:**
+**Prompt :**
 ```
 【Style】Van Gogh Post-Impressionism oil painting, thick paint texture (Heavy Impasto), signature swirling brushstrokes, dreamy feel, high saturation blue-yellow contrast.
 【Duration】15 second animation
@@ -348,12 +353,12 @@ Background: A sleeping town in the valley, windows of houses emit warm, circular
 
 https://github.com/user-attachments/assets/6a982ca0-e508-4759-847c-ce18bf245a88
 
-*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020778466405159207?s=20)*
+*Source : John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020778466405159207?s=20)*
 
-### 5.6. Tournament of Power with Famous Anime Characters
-*Epic anime battle scene with multiple characters from different series in a cosmic arena.*
+### 5.8. Tournament of Power avec des personnages d'anime celebres
+*Scene de bataille anime epique avec plusieurs personnages de series differentes dans une arene cosmique.*
 
-**Prompt:**
+**Prompt :**
 ```
 A massive cosmic arena forms in a blinding void, Tournament-of-Power scale. Crowds from countless universes roar.
 At the center stands the narrator: Gintoki Sakata, relaxed, wooden sword on his shoulder, bored eyes, sharp tongue.
@@ -385,30 +390,31 @@ Comedy and catastrophe collide.
 
 https://github.com/user-attachments/assets/8ee52841-29be-4c1f-8079-964c4ed15f37
 
-*Source: nachos2d ([@NACHOS2D_](https://x.com/NACHOS2D_)) - [Post](https://x.com/NACHOS2D_/status/2021295886978908547?s=20)*
+*Source : nachos2d ([@NACHOS2D_](https://x.com/NACHOS2D_)) - [Post](https://x.com/NACHOS2D_/status/2021295886978908547?s=20)*
 
-### 5.7. Luffy Coding on MacBook (Comedy Scene)
-*Funny scene of anime character Luffy getting frustrated with coding and throwing the laptop overboard.*
+### 5.9. Luffy code sur un MacBook (scene comique)
+*Scene drole ou le personnage d'anime Luffy se frustre en codant puis jette l'ordinateur par-dessus bord.*
 
-**Prompt:**
+**Prompt :**
 ```
 Luffy coding on a Macbook on the Thousand Sunny, RAGING, then throwing it overboard.
 ```
 
 https://github.com/user-attachments/assets/b5e2cc4c-9025-497e-a81c-3189d97b274b
 
-*Source: BOOTOSHI ([@KingBootoshi](https://x.com/KingBootoshi)) - [Post](https://x.com/KingBootoshi/status/2021349878232907790?s=20)*
+*Source : BOOTOSHI ([@KingBootoshi](https://x.com/KingBootoshi)) - [Post](https://x.com/KingBootoshi/status/2021349878232907790?s=20)*
 
 ---
 
-## 6. Short-form Drama & Web Series
+<a id="6-short-form-drama--web-series"></a>
+## 6. Dramas courts et web series
 
-Captivating short-form content with dramatic narratives and viral appeal, ideal for mini-series production using **Seedance AI**.
+Contenus courts captivants avec des recits dramatiques et un fort potentiel viral, ideaux pour produire des mini-series avec **Seedance AI**.
 
-### 6.1. Chinese New Year Gala Style: Zhen Huan & Hu Fei Show
-*A 10-second stage performance with contrasting historical formality and modern workplace humor.*
+### 6.1. Style gala du Nouvel An chinois : show de Zhen Huan et Hu Fei
+*Performance scenique de 10 secondes melant formalite historique et humour de bureau moderne.*
 
-**Prompt:**
+**Prompt :**
 ```
 10 second Chinese New Year Gala style stage performance: "Zhen Huan & Hu Fei Talk Show"
 
@@ -454,12 +460,12 @@ Style and atmosphere:
 
 https://github.com/user-attachments/assets/76a2b32a-a7c7-42f7-af08-ea7ddcf3fed9
 
-*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020027994429911370?s=20)*
+*Source : John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020027994429911370?s=20)*
 
-### 6.2. Chinese Mini-Drama Style (Rainy Night Emotional Scene)
-*Intense emotional drama with fast-paced editing and dramatic rain setting.*
+### 6.2. Style mini-drama chinois (scene emotionnelle sous la pluie nocturne)
+*Melodrame intense avec montage rapide et pluie dramatique.*
 
-**Prompt:**
+**Prompt :**
 ```
 【Style】Popular Chinese web drama style (Mini-Drama Style), extreme fast-cut rhythm, high attractiveness filter, emotional outburst, romantic and heart-wrenching rainy night.
 【Duration】15 seconds
@@ -475,12 +481,12 @@ At the moment the female lead sees the object in her hand, her pupils shake (ext
 【Dialogue lip-sync guidance】Female lead sobs with her head down (silent/whimpering).
 ```
 
-*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020687040853975223?s=20)*
+*Source : John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020687040853975223?s=20)*
 
-### 6.3. Chinese Viral CEO Drama Style (Vertical Format)
-*Viral short-form content with dramatic plot twists in vertical format.*
+### 6.3. Style drama viral de CEO chinois (format vertical)
+*Contenu court viral avec rebondissements dramatiques en format portrait.*
 
-**Prompt:**
+**Prompt :**
 ```
 【Style】Popular Chinese rich-tycoon (爽剧/Satisfying Drama) (Viral CEO Drama), vertical composition (Portrait Mode), high saturation filter, extreme facial close-ups, dramatic emotional range.
 【Duration】15 seconds
@@ -500,18 +506,19 @@ The main door is kicked open, two rows of black-clad bodyguards rush in, kneelin
 
 https://github.com/user-attachments/assets/510355c2-6c53-4587-8f1a-9913a0a54bbb
 
-*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020688711172620665?s=20)*
+*Source : John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020688711172620665?s=20)*
 
 ---
 
-## 7. Visual Effects & Experimental Styles
+<a id="7-visual-effects--experimental-styles"></a>
+## 7. Effets visuels et styles experimentaux
 
-Creative visual effects and experimental approaches for unique artistic outcomes.
+Effets visuels creatifs et approches experimentales pour obtenir des resultats artistiques uniques.
 
-### 7.1. Surrealism and Megalophobia Style
-*Reality-bending sky-zipper concept with God-like hands and cyberpunk world.*
+### 7.1. Style surrealisme et megalophobie
+*Concept de ciel-fermeture eclair deformant la realite, avec des mains divines et un monde cyberpunk.*
 
-**Prompt:**
+**Prompt :**
 ```
 【Style】Surrealism, megalophobia, epic visual spectacle, Hollywood special effects quality, extremely realistic lighting and shadow rendering.
 【Duration】15 seconds
@@ -530,31 +537,33 @@ Ending: The camera rapidly pulls back to reveal that our entire world (city/whea
 
 https://github.com/user-attachments/assets/ccf43991-7f39-4550-8845-4aff2cec3ed4
 
-*Source: John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020727853281628276?s=20)*
+*Source : John ([@johnAGI168](https://x.com/johnAGI168)) - [Post](https://x.com/johnAGI168/status/2020727853281628276?s=20)*
 
 ---
 
-## 8. Resources
+<a id="8-resources"></a>
+## 8. Ressources
 
-- [Seedance 2.0 Official Page](https://xyq.jianying.com/) - Access to Seedance 2.0 model for testing
-- [Seedance 2.0 How to Use Guide](https://xyq.jianying.com/) - Learn how to master AI video generation
-- [Seedance API Documentation](https://www.jianying.com/) - Integrate **Seedance AI** into your own workflow
-- [ByteDance Jianying Official Site](https://www.jianying.com/) - Platform and tools
-- [twitterxz.com](https://twitterxz.com/) - Twitter video downloader
+- [Seedance 2.0 Official Page](https://xyq.jianying.com/) - Acces au modele Seedance 2.0 pour les tests
+- [Seedance 2.0 How to Use Guide](https://xyq.jianying.com/) - Apprenez a maitriser la generation video par IA
+- [Seedance API Documentation](https://www.jianying.com/) - Integrez **Seedance AI** dans votre propre workflow
+- [ByteDance Jianying Official Site](https://www.jianying.com/) - Plateforme et outils
+- [twitterxz.com](https://twitterxz.com/) - Telechargeur de videos Twitter
 
+<a id="9-contributing"></a>
+## 9. Contribuer
 
-## 9. Contributing
+Les contributions sont les bienvenues. Si vous avez un **excellent prompt Seedance 2.0**, merci de soumettre une Pull Request.
 
-Contributions are welcome! If you have an **awesome Seedance 2.0 prompt**, please submit a Pull Request.
+1. Forkez le depot.
+2. Creez une nouvelle branche.
+3. Ajoutez votre prompt dans la bonne categorie avec le prochain numero disponible.
+4. Soumettez une PR.
 
-1. Fork the repo.
-2. Create a new branch.
-3. Add your prompt in the correct category with the next available number.
-4. Submit PR.
+Merci d'inclure la **Source** (lien vers le createur original) afin d'attribuer le credit correctement.
 
-Please ensure you include the **Source** (link to the original creator) to give credit where it is due.
-
-## 10. Star History
+<a id="10-star-history"></a>
+## 10. Historique des stars
 
 <a href="https://star-history.com/#ZeroLu/awesome-seedance&Date">
  <picture>
